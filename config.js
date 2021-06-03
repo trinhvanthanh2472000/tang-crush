@@ -1,12 +1,13 @@
 const CONFIG = {
     introTitle: 'Bae à!',
-    introDesc: `cái này là giành riêng cho Trang
-    gửi đến em 1 cô nàng xinh xắn 
-    được thưn Trang là điều may mắn
+    introDesc: `cái này
+    là giành riêng cho Trang                  
+    gửi đến em 1 cô nàng xinh xắn                  
+    được thưn Trang là điều may mắn                    
     đến bao giờ mình mới có nhau`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'có thưn mình hong dí vào là phải thương đó <33',
     btnNo: 'Không, chả thương tẹo nào cả:3',
     question:'Trên thế giới hơn 7 tỉ người mà sao lại yêu mình  <3',
