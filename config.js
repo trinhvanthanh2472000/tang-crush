@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Bae à!',
     introDesc: `Trang ưiii
    trò chơi này mình giành riêng cho Trangg
-    gửi đến Trang 1 cô nàng xinh xắn `,
+    gửi đến Trang 1 cô nàng xinh xắn ',
     btnIntro: 'hihi',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
