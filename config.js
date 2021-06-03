@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Bae à!',
     introDesc: `cái này
-    là giành riêng cho Trang                  
-    gửi đến em 1 cô nàng xinh xắn                  
-    được thưn Trang là điều may mắn                    
+    là giành riêng cho Trang.                  
+    gửi đến em 1 cô nàng xinh xắn.                  
+    được thưn Trang là điều may mắn.                    
     đến bao giờ mình mới có nhau`,
     btnIntro: 'hihi',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
