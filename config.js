@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Bae à!',
     introDesc: `Trang ưiii
    trò chơi này mình giành riêng cho Trangg
-    gửi đến Trang 1 cô nàng xinh xắn` ,
+    gửi đến Trang 1 cô nàng xinh xắn`,
     btnIntro: 'hihi',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'hiaaaa thế thì hết dịch hẹn yêu thuii',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/profile.php?id=100006753014781' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
